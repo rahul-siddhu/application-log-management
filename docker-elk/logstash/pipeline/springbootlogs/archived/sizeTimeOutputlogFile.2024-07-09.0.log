@@ -1,0 +1,35 @@
+[2024-07-09 13:40:07] - Starting SpringbootloggingApplication using Java 22.0.1 with PID 16860 (C:\Tools\springbootlogging\target\classes started by rs656 in C:\Tools\springbootlogging)
+[2024-07-09 13:40:07] - No active profile set, falling back to 1 default profile: "default"
+[2024-07-09 13:40:11] - Tomcat initialized with port 8081 (http)
+[2024-07-09 13:40:11] - Initializing ProtocolHandler ["http-nio-8081"]
+[2024-07-09 13:40:11] - Starting service [Tomcat]
+[2024-07-09 13:40:11] - Starting Servlet engine: [Apache Tomcat/10.1.25]
+[2024-07-09 13:40:11] - Initializing Spring embedded WebApplicationContext
+[2024-07-09 13:40:11] - Root WebApplicationContext: initialization completed in 3964 ms
+[2024-07-09 13:40:12] - Starting ProtocolHandler ["http-nio-8081"]
+[2024-07-09 13:40:12] - Tomcat started on port 8081 (http) with context path '/'
+[2024-07-09 13:40:12] - Started SpringbootloggingApplication in 6.392 seconds (process running for 8.033)
+[2024-07-09 13:41:03] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-07-09 13:41:03] - Initializing Servlet 'dispatcherServlet'
+[2024-07-09 13:41:03] - Completed initialization in 24 ms
+[2024-07-09 13:41:03] - Hello there
+[2024-07-09 13:41:03] - This is sample warn message
+[2024-07-09 13:41:03] - This is sample error message
+[2024-07-09 13:41:05] - Hello there
+[2024-07-09 13:41:05] - This is sample warn message
+[2024-07-09 13:41:05] - This is sample error message
+[2024-07-09 13:41:06] - Hello there
+[2024-07-09 13:41:06] - This is sample warn message
+[2024-07-09 13:41:06] - This is sample error message
+[2024-07-09 14:44:15] - Hello there
+[2024-07-09 14:44:15] - This is sample warn message
+[2024-07-09 14:44:15] - This is sample error message
+[2024-07-09 14:44:17] - Hello there
+[2024-07-09 14:44:17] - This is sample warn message
+[2024-07-09 14:44:17] - This is sample error message
+[2024-07-09 14:44:18] - Hello there
+[2024-07-09 14:44:18] - This is sample warn message
+[2024-07-09 14:44:18] - This is sample error message
+[2024-07-09 15:24:59] - Hello there
+[2024-07-09 15:24:59] - This is sample warn message
+[2024-07-09 15:24:59] - This is sample error message

@@ -1,0 +1,32 @@
+[2024-07-18 13:39:05] - Starting SpringbootloggingApplication using Java 22.0.1 with PID 11688 (C:\Tools\springbootlogging\target\classes started by rs656 in C:\Tools\springbootlogging)
+[2024-07-18 13:39:05] - No active profile set, falling back to 1 default profile: "default"
+[2024-07-18 13:39:09] - Tomcat initialized with port 8081 (http)
+[2024-07-18 13:39:09] - Initializing ProtocolHandler ["http-nio-8081"]
+[2024-07-18 13:39:09] - Starting service [Tomcat]
+[2024-07-18 13:39:09] - Starting Servlet engine: [Apache Tomcat/10.1.25]
+[2024-07-18 13:39:09] - Initializing Spring embedded WebApplicationContext
+[2024-07-18 13:39:09] - Root WebApplicationContext: initialization completed in 4405 ms
+[2024-07-18 13:39:11] - Starting ProtocolHandler ["http-nio-8081"]
+[2024-07-18 13:39:12] - Tomcat started on port 8081 (http) with context path '/'
+[2024-07-18 13:39:12] - Started SpringbootloggingApplication in 8.509 seconds (process running for 10.34)
+[2024-07-18 13:39:14] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-07-18 13:39:14] - Initializing Servlet 'dispatcherServlet'
+[2024-07-18 13:39:14] - Completed initialization in 2 ms
+[2024-07-18 13:39:14] - Hello there
+[2024-07-18 13:39:14] - This is sample warn message
+[2024-07-18 13:39:14] - This is sample error message
+[2024-07-18 13:39:16] - Hello there
+[2024-07-18 13:39:16] - This is sample warn message
+[2024-07-18 13:39:16] - This is sample error message
+[2024-07-18 13:59:11] - Hello there
+[2024-07-18 13:59:11] - This is sample warn message
+[2024-07-18 13:59:11] - This is sample error message
+[2024-07-18 13:59:15] - Hello there
+[2024-07-18 13:59:15] - This is sample warn message
+[2024-07-18 13:59:15] - This is sample error message
+[2024-07-18 14:04:15] - Hello there
+[2024-07-18 14:04:15] - This is sample warn message
+[2024-07-18 14:04:15] - This is sample error message
+[2024-07-18 14:08:00] - Hello there
+[2024-07-18 14:08:00] - This is sample warn message
+[2024-07-18 14:08:00] - This is sample error message
